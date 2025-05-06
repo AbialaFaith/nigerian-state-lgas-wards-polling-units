@@ -4767,6 +4767,103 @@
     ]
   },
   {
+    "state": "fct",
+    "lgas": [
+      {
+        "lga": "abaji",
+        "wards": [
+          "abaji central",
+          "abaji north east",
+          "abaji south east",
+          "alu/mamagi",
+          "agyana/pandagi",
+          "gawu",
+          "gurdi",
+          "nuku",
+          "rimba ebagi",
+          "yaba" 
+        ]
+      },
+      {
+        "lga": "abuja municipal area council (amac)",
+        "wards": [
+          "city centre",
+          "garki",
+          "gui",
+          "gwagwa",
+          "gwarinpa",
+          "jiwa",
+          "kabusa",
+          "karshi",
+          "karu",
+          "nyanya",
+          "orozo",
+          "wuse"
+        ]
+      },
+      {
+        "lga": "bwari",
+        "wards": [
+          "bwari central",
+          "byazhin",
+          "dutsen alhaji",
+          "igu",
+          "kawu",
+          "kubwa",
+          "kuduru",
+          "shere",
+          "ushafa",
+          "usuma"
+        ]
+      },
+      {
+        "lga": "gwagwalada",
+        "wards": [
+          "dobi",
+          "gwagwalada central",
+          "gwako",
+          "ibwa",
+          "ikwa",
+          "kutunku",
+          "paiko",
+          "staff quarters",
+          "tungan maje",
+          "zuba"
+        ]
+      },
+      {
+        "lga": "kuje",
+        "wards": [
+          "chibiri",
+          "gaube",
+          "gudun karya",
+          "gwargwada",
+          "kabi",
+          "kujekwa"
+          "kuje central",
+          "kwaku",
+          "rubochi",
+          "yenche"
+        ]
+      },
+      {
+        "lga": "kwali",
+        "wards": [
+          "ashara",
+          "dafa",
+          "gumbo",
+          "kilankwa",
+          "kundu",
+          "kwali central",
+          "pai",
+          "wako",
+          "yangoji",
+          "yebu"
+        ]
+      }
+    ]
+  },
+  {
     "state": "gombe",
     "lgas": [
       {
